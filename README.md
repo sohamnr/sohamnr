@@ -14,23 +14,20 @@ Here are some technologies I'm working with:
 
 ### 📌 Programming Languages  
 - Python 🐍  
-- R 📊  
+- 
 
 
 ### 📌 AI/ML Frameworks  
-- TensorFlow & Keras  
-- PyTorch  
+- TensorFlow & Keras   
 - Scikit-Learn  
 - Hugging Face (for NLP models)  
 
 ### 📌 Data & Cloud Platforms  
 - Pandas, NumPy, Matplotlib, Seaborn  
 - Google Colab & Jupyter Notebook  
-- AWS, Azure AI  
 
-## 🚀 Goals & Projects  
-🔹 **Short-Term Goals:** Build real-world AI applications and contribute to open-source ML projects.  
-🔹 **Long-Term Goals:** Become an AI researcher, work on cutting-edge AI innovations, and help shape the future of technology.  
+## 🚀 Goal  
+Build real-world AI applications and contribute to open-source ML projects.    
 
 
 🌟 **"Keep Learning, Keep Building, Keep Innovating!"** 🌟  
