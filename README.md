@@ -10,15 +10,14 @@ I'm currently diving deep into:
 
 
 ##  Technologies & Tools  
-Here are some technologies I'm working with:  
-
 ###  Programming Languages  
 - Python  
 
 
 ###  AI/ML Frameworks  
 - TensorFlow & Keras   
-- Scikit-Learn  
+- Scikit-Learn
+- RAG, LANGCHAIN  
 
 ###  Data & Cloud Platforms  
 - Pandas, NumPy, Matplotlib, Seaborn  
@@ -27,5 +26,4 @@ Here are some technologies I'm working with:
 ##  Goal  
 Build real-world AI applications and contribute to open-source ML projects.    
 
-
-🌟 **"Keep Learning, Keep Building, Keep Innovating!"** 🌟  
+**"Keep Learning, Keep Building, Keep Innovating!"** 
